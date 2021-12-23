@@ -1,0 +1,75 @@
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Forms.exe.config
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Forms.exe
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Forms.pdb
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csprojAssemblyReference.cache
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Properties.Resources.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csproj.GenerateResource.cache
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csproj.CopyComplete
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.exe
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.pdb
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Business.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Business.pdb
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Kitaplar.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Ogrenciler.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.KitapEkle.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.KitapGuncelle.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.OgrenciEkle.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.OgrenciGuncelle.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.KitapDetay.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.OgrenciIslemleri.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.IslemlerListesi.resources
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\ZedGraph.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Grafik.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Forms.exe.config
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Forms.exe
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Forms.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Business.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\ZedGraph.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Business.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Grafik.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.IslemlerListesi.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.KitapDetay.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.OgrenciGuncelle.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.OgrenciEkle.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.KitapGuncelle.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.KitapEkle.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Kitaplar.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.OgrenciIslemleri.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Ogrenciler.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Properties.Resources.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csproj.GenerateResource.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csproj.CopyComplete
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.exe
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Forms.exe.config
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Forms.exe
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Forms.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Business.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\ZedGraph.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.Business.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Grafik.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.IslemlerListesi.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.KitapDetay.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.OgrenciGuncelle.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.OgrenciEkle.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.KitapGuncelle.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.KitapEkle.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Kitaplar.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.OgrenciIslemleri.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Ogrenciler.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.Properties.Resources.resources
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csproj.GenerateResource.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.csproj.CopyComplete
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.exe
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Forms\obj\Debug\Kutuphane.Forms.pdb

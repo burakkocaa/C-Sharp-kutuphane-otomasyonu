@@ -1,0 +1,18 @@
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.pdb

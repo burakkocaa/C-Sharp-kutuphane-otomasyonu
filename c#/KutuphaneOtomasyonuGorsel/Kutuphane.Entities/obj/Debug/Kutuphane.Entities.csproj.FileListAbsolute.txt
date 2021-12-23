@@ -1,0 +1,6 @@
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Entities\bin\Debug\Kutuphane.Entities.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Entities\bin\Debug\Kutuphane.Entities.pdb
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Entities\obj\Debug\Kutuphane.Entities.csprojAssemblyReference.cache
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Entities\obj\Debug\Kutuphane.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Entities\obj\Debug\Kutuphane.Entities.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Entities\obj\Debug\Kutuphane.Entities.pdb

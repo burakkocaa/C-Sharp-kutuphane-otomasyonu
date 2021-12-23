@@ -1,0 +1,27 @@
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.Business.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.Business.pdb
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.csprojAssemblyReference.cache
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.CopyComplete
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.dll
+C:\Users\Murat\source\repos\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.Business.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.Business.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.CopyComplete
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.Business.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.Business.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.DataAccess.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Business\bin\Debug\Kutuphane.DataAccess.pdb
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.csproj.CopyComplete
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.dll
+C:\Users\Murat\Desktop\Projelerim\Görsel Programlama_182114053\KutuphaneOtomasyonuGorsel\Kutuphane.Business\obj\Debug\Kutuphane.Business.pdb
